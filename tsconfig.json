@@ -8,5 +8,8 @@
         "rootDir": "."
         //,
         //"watch": true
-    }
+    },
+    "exclude": [
+        "node_modules"
+    ]
 }
